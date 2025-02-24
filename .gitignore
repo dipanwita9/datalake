@@ -1,0 +1,10 @@
+# add files to be ignored in github
+node_modules
+dist
+.env
+.venv
+.vscode
+.idea
+*.log
+*.zip
+__pycache__/
